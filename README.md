@@ -2,11 +2,11 @@
 <img src="https://komarev.com/ghpvc/?username=p0tt3r-iOS&&style=flat-square" align="right" />
 </div>  
   
-  ### iOS Developer
+  ### Fullstack Developer
   ##### What I am learning
-  * iOS - Swift <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>
-  * CS - Operating System
-  * Algorithm
+  * JAVA - SPRING
+  * JAVASCRIPT - NODE.JS , REACT
+  * GIT
 
 
 
