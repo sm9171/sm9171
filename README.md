@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=sm9171&&style=flat-square" align="right" />
 </div>  
   
-  ### Fullstack Developer
+  ### BACK-END Developer
   ##### What I am learning
   * JAVA - SPRING
   * JAVASCRIPT - NODE.JS , REACT
