@@ -1,3 +1,10 @@
+- 🔭 현재 일하고 있는 회사
+    - [와이즈넛](https://www.wisenut.com/)
+- 📫 연락처
+    - [링크드인 주소](https://www.linkedin.com/in/%EC%83%81%EB%AF%BC-%EB%82%98-aa54b5267/)
+- 🌱 지금 읽고 읽는 책
+    - [책 정리 모음](https://freezing-lion-816.notion.site/1fdddd12bb474e12a0ee3a808f43f802)
+
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=sm9171&&style=flat-square" align="right" />
 </div>  
@@ -14,18 +21,3 @@
 </td></tr></table>  
 
 <br/>  
-
-<!--
-**p0tt3r-iOS/p0tt3r-iOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
