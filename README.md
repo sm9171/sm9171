@@ -2,6 +2,8 @@
     - [와이즈넛](https://www.wisenut.com/)
 - 📫 연락처
     - [링크드인 주소](https://www.linkedin.com/in/%EC%83%81%EB%AF%BC-%EB%82%98-aa54b5267/)
+- 📖 운영중인 블로그
+    - [블로그 주소](https://naccoon.hashnode.dev/)
 - 🌱 지금 읽고 읽는 책
     - [책 정리 모음](https://freezing-lion-816.notion.site/1fdddd12bb474e12a0ee3a808f43f802)
 
